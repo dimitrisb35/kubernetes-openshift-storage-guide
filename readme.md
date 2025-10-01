@@ -553,4 +553,4 @@ kubectl exec -it <pod-name> -- iostat -x 1
 - [CSI Driver Specification](https://github.com/container-storage-interface/spec)
 - [OpenShift Data Foundation Documentation](https://access.redhat.com/documentation/en-us/red_hat_openshift_data_foundation/)
 - [Ceph Documentation](https://docs.ceph.com/)
-- [Storage Performance Benchmarking](https://github.com/kubernetes/perf-tests/tree/master/fio-test)
+
